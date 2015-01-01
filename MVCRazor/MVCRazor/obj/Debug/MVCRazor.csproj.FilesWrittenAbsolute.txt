@@ -1,0 +1,12 @@
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/bin/MVCRazor.dll.mdb
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/bin/MVCRazor.dll
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/obj/Debug/MVCRazor.dll
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/obj/Debug/MVCRazor.dll.mdb
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/bin/Microsoft.Web.Infrastructure.dll
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/bin/System.Web.Razor.dll
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/bin/System.Web.Helpers.dll
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/bin/System.Web.WebPages.dll
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/bin/System.Web.WebPages.Deployment.dll
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/bin/System.Web.WebPages.Razor.dll
+/media/abhi/G/GitRepos/CodeExperiments/MVCRazor/MVCRazor/bin/System.Web.Mvc.dll
